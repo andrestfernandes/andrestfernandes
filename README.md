@@ -1,8 +1,8 @@
 ### Hello everyone! I'm Andre Fernandes. 🖐️
-I'm studying analysis and systems development at college and I'm studying to be a full-stack programer. 
+I'm studying Analysis and Systems Development in college and aiming to become a full-stack programer. 
 I want to learn how to use different tools to build awesome projects and help people with those applications.
-Now I'm focus on JS, Html and CSS.
-Hopefully we can share programming knowledge here on GitHub. 
+Now I'm focus on JS, HTML and CSS.
+Hopefully, we can share programming knowledge here on GitHub. 
 
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andresamuel-fernandes/)
