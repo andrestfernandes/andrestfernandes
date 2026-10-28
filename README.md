@@ -1,6 +1,6 @@
 ### Hi, I'm André 👋
 
-I build AI assistants for small businesses and web systems. I'm studying Systems Analysis and Development at PUC Minas, and I like turning everyday problems into tools people actually use.
+I build AI assistants and web systems for small businesses. I graduated in Systems Analysis and Development from PUC Minas, and I like turning everyday problems into tools people actually use.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andresamuel-fernandes/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/andre_tfernandes/)
