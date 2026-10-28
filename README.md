@@ -26,7 +26,3 @@ I build AI assistants and web systems for small businesses. I graduated in Syste
   <img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white">
   <img alt="Applied AI" src="https://img.shields.io/badge/Applied_AI-8A2BE2?style=for-the-badge&logo=googlegemini&logoColor=white">
 </p>
-
-## Streak
-
-[![GitHub streak](https://streak-stats.demolab.com?user=andrestfernandes&theme=dracula&hide_border=true)](https://github.com/andrestfernandes)
