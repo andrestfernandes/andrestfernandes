@@ -11,7 +11,7 @@ I build AI assistants and web systems for small businesses. I graduated in Syste
 >
 > Handles customers on her own: answers questions, books and reschedules appointments, sends reminders the day before, charges via Pix, understands voice messages, and calls the owner when a human is needed. Running at a real barbershop.
 >
-> `TypeScript` `Node.js` `Gemini` `Claude` `WhatsApp`
+> `TypeScript` `Node.js` `Gemini` `Haiku` `WhatsApp`
 >
 > Want to see it in action? Reach out on LinkedIn and I'll show you a demo.
 
